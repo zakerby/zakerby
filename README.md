@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 Working on a gardening platform<br>🌱 I’m currently learning Golang
 
 
 # 💻 Tech Stack:
